@@ -16,9 +16,12 @@ QueueCure solves this problem through a digital queue system with real-time upda
 * Search Token Position
 * Cancel Token
 * Real-Time Waiting Room Updates using Socket.IO
-* Estimated Wait Time Calculation
+* Dynamic Wait Time Calculation
 * LocalStorage Persistence
 * Responsive User Interface
+*  Receptionist Dashboard
+*  Waiting Room Dashboard
+*  Socket.IO Integration
 
 ## Tech Stack
 
